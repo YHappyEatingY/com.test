@@ -16,7 +16,7 @@ public class controller {
 
     @GetMapping
     public String hello(){
-        System.out.println("你好!");
+        System.out.println("你好 嘻嘻嘻🤭(●'◡'●)!");
         return "hello";
     }
 
